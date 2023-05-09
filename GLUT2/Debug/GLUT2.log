@@ -1,0 +1,53 @@
+﻿  Source.cpp
+C:\Users\rekal\OneDrive\Masaüstü\All Applications\CTIS151\CTIS164\GLUT2\GLUT2\GLUT2\Source.cpp(65,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rekal\OneDrive\Masaüstü\All Applications\CTIS151\CTIS164\GLUT2\GLUT2\GLUT2\Source.cpp(66,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\rekal\OneDrive\Masaüstü\All Applications\CTIS151\CTIS164\GLUT2\GLUT2\GLUT2\Source.cpp(66,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\rekal\OneDrive\Masaüstü\All Applications\CTIS151\CTIS164\GLUT2\GLUT2\GLUT2\Source.cpp(80,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rekal\OneDrive\Masaüstü\All Applications\CTIS151\CTIS164\GLUT2\GLUT2\GLUT2\Source.cpp(81,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\rekal\OneDrive\Masaüstü\All Applications\CTIS151\CTIS164\GLUT2\GLUT2\GLUT2\Source.cpp(81,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\rekal\OneDrive\Masaüstü\All Applications\CTIS151\CTIS164\GLUT2\GLUT2\GLUT2\Source.cpp(90,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rekal\OneDrive\Masaüstü\All Applications\CTIS151\CTIS164\GLUT2\GLUT2\GLUT2\Source.cpp(90,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rekal\OneDrive\Masaüstü\All Applications\CTIS151\CTIS164\GLUT2\GLUT2\GLUT2\Source.cpp(109,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rekal\OneDrive\Masaüstü\All Applications\CTIS151\CTIS164\GLUT2\GLUT2\GLUT2\Source.cpp(109,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rekal\OneDrive\Masaüstü\All Applications\CTIS151\CTIS164\GLUT2\GLUT2\GLUT2\Source.cpp(125,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rekal\OneDrive\Masaüstü\All Applications\CTIS151\CTIS164\GLUT2\GLUT2\GLUT2\Source.cpp(125,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rekal\OneDrive\Masaüstü\All Applications\CTIS151\CTIS164\GLUT2\GLUT2\GLUT2\Source.cpp(163,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\rekal\OneDrive\Masaüstü\All Applications\CTIS151\CTIS164\GLUT2\GLUT2\GLUT2\Source.cpp(166,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\rekal\OneDrive\Masaüstü\All Applications\CTIS151\CTIS164\GLUT2\GLUT2\GLUT2\Source.cpp(188,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rekal\OneDrive\Masaüstü\All Applications\CTIS151\CTIS164\GLUT2\GLUT2\GLUT2\Source.cpp(191,10): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rekal\OneDrive\Masaüstü\All Applications\CTIS151\CTIS164\GLUT2\GLUT2\GLUT2\Source.cpp(196,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rekal\OneDrive\Masaüstü\All Applications\CTIS151\CTIS164\GLUT2\GLUT2\GLUT2\Source.cpp(199,10): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rekal\OneDrive\Masaüstü\All Applications\CTIS151\CTIS164\GLUT2\GLUT2\GLUT2\Source.cpp(220,48): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rekal\OneDrive\Masaüstü\All Applications\CTIS151\CTIS164\GLUT2\GLUT2\GLUT2\Source.cpp(220,37): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rekal\OneDrive\Masaüstü\All Applications\CTIS151\CTIS164\GLUT2\GLUT2\GLUT2\Source.cpp(220,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rekal\OneDrive\Masaüstü\All Applications\CTIS151\CTIS164\GLUT2\GLUT2\GLUT2\Source.cpp(220,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rekal\OneDrive\Masaüstü\All Applications\CTIS151\CTIS164\GLUT2\GLUT2\GLUT2\Source.cpp(229,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rekal\OneDrive\Masaüstü\All Applications\CTIS151\CTIS164\GLUT2\GLUT2\GLUT2\Source.cpp(229,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rekal\OneDrive\Masaüstü\All Applications\CTIS151\CTIS164\GLUT2\GLUT2\GLUT2\Source.cpp(230,29): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rekal\OneDrive\Masaüstü\All Applications\CTIS151\CTIS164\GLUT2\GLUT2\GLUT2\Source.cpp(230,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rekal\OneDrive\Masaüstü\All Applications\CTIS151\CTIS164\GLUT2\GLUT2\GLUT2\Source.cpp(231,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rekal\OneDrive\Masaüstü\All Applications\CTIS151\CTIS164\GLUT2\GLUT2\GLUT2\Source.cpp(231,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rekal\OneDrive\Masaüstü\All Applications\CTIS151\CTIS164\GLUT2\GLUT2\GLUT2\Source.cpp(232,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rekal\OneDrive\Masaüstü\All Applications\CTIS151\CTIS164\GLUT2\GLUT2\GLUT2\Source.cpp(239,29): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rekal\OneDrive\Masaüstü\All Applications\CTIS151\CTIS164\GLUT2\GLUT2\GLUT2\Source.cpp(239,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rekal\OneDrive\Masaüstü\All Applications\CTIS151\CTIS164\GLUT2\GLUT2\GLUT2\Source.cpp(240,29): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rekal\OneDrive\Masaüstü\All Applications\CTIS151\CTIS164\GLUT2\GLUT2\GLUT2\Source.cpp(240,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rekal\OneDrive\Masaüstü\All Applications\CTIS151\CTIS164\GLUT2\GLUT2\GLUT2\Source.cpp(241,29): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rekal\OneDrive\Masaüstü\All Applications\CTIS151\CTIS164\GLUT2\GLUT2\GLUT2\Source.cpp(241,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rekal\OneDrive\Masaüstü\All Applications\CTIS151\CTIS164\GLUT2\GLUT2\GLUT2\Source.cpp(242,29): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rekal\OneDrive\Masaüstü\All Applications\CTIS151\CTIS164\GLUT2\GLUT2\GLUT2\Source.cpp(242,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rekal\OneDrive\Masaüstü\All Applications\CTIS151\CTIS164\GLUT2\GLUT2\GLUT2\Source.cpp(261,49): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rekal\OneDrive\Masaüstü\All Applications\CTIS151\CTIS164\GLUT2\GLUT2\GLUT2\Source.cpp(261,38): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rekal\OneDrive\Masaüstü\All Applications\CTIS151\CTIS164\GLUT2\GLUT2\GLUT2\Source.cpp(261,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rekal\OneDrive\Masaüstü\All Applications\CTIS151\CTIS164\GLUT2\GLUT2\GLUT2\Source.cpp(261,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rekal\OneDrive\Masaüstü\All Applications\CTIS151\CTIS164\GLUT2\GLUT2\GLUT2\Source.cpp(272,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rekal\OneDrive\Masaüstü\All Applications\CTIS151\CTIS164\GLUT2\GLUT2\GLUT2\Source.cpp(272,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rekal\OneDrive\Masaüstü\All Applications\CTIS151\CTIS164\GLUT2\GLUT2\GLUT2\Source.cpp(273,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rekal\OneDrive\Masaüstü\All Applications\CTIS151\CTIS164\GLUT2\GLUT2\GLUT2\Source.cpp(273,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rekal\OneDrive\Masaüstü\All Applications\CTIS151\CTIS164\GLUT2\GLUT2\GLUT2\Source.cpp(274,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rekal\OneDrive\Masaüstü\All Applications\CTIS151\CTIS164\GLUT2\GLUT2\GLUT2\Source.cpp(274,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\rekal\OneDrive\Masaüstü\All Applications\CTIS151\CTIS164\GLUT2\GLUT2\GLUT2\Source.cpp(305,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\rekal\OneDrive\Masaüstü\All Applications\CTIS151\CTIS164\GLUT2\GLUT2\GLUT2\Source.cpp(308,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\rekal\OneDrive\Masaüstü\All Applications\CTIS151\CTIS164\GLUT2\GLUT2\GLUT2\Source.cpp(552,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\rekal\OneDrive\Masaüstü\All Applications\CTIS151\CTIS164\GLUT2\GLUT2\GLUT2\Source.cpp(625,35): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  GLUT2.vcxproj -> C:\Users\rekal\OneDrive\Masaüstü\All Applications\CTIS151\CTIS164\GLUT2\GLUT2\Debug\GLUT2.exe
